@@ -1,2 +1,2 @@
 #!/bin/bash
-./aveth attach ipc:geth.ipc
+./avethd attach ipc:geth.ipc
